@@ -125,5 +125,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 ---
 
 📌 *Academic project focused on compiler design using C — highlighting all major compilation phases from lexical to code generation.*
-
-```
